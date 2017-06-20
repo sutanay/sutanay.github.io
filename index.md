@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+I am a member of PNNL's [computing research division](http://www.pnnl.gov/computing/). Here are some problems keeping us inspired.
+
+<img src="images/spark.jpeg">
 
 
 ## [](#header-2) Knowledge Graphs
