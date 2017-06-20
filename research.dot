@@ -1,0 +1,18 @@
+graph sutanay_research {
+  autonomous_system -- streaming
+  autonomous_system -- knowledge_representation
+  tas
+  knowledge_representation -- knowledge_
+  knowledge_representation -- deep_learning
+  streaming -- graph_search
+  knowledge_graph -- subgraph_isomorphism
+  knowledge_graph -- relation_extraction
+  knowledge_graph -- link_prediction
+  knowledge_graph -- rule_learning
+  knowledge_graph -- inference
+  streaming -- rule_learning
+  autonomous_system -- tasks
+  tasks -- action_recommendation
+  tasks -- event_explanation
+  tasks -- question_answering
+}
