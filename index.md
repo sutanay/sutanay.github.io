@@ -20,7 +20,6 @@ StreamWorks is a graph analytics system designed to detect patterns from massive
 * Check out our [EDBT paper](https://openproceedings.org/2015/conf/edbt/paper-307.pdf) on detecting patterns from dynamic graph datastreams via subgraph isomorphism.
 * If you are interested in exploring graph querying for cyber-security applications, see our [SIGMOD workshop paper](publications/2013_grades.pdf).
 * The entire pipeline is described in our [SIGMOD demonstrations paper](publications/2013_sigmod_demo.pdf).
-* The serial version (C++) of StreamWorks is available as open-source [here](github.com/streaming-graphs/StreamWorks).
 * Not streaming, but this [SIGMOD workshop paper](publications/2014_parasol.pdf) explores the issues around querying cross-cloud databases.
 
 ## [](#header-1) Autonomous Systems Design
