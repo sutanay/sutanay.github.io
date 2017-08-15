@@ -6,6 +6,8 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* Upcoming talk on "Networks and Graphs" at [CoDA 2018](http://cnls.lanl.gov/coda2018) at Los Alamost National Laboratory.
+* Upcoming talk on "Scalable Cyber Event Detection and Explanation" at [Data Analytics for the Smart Grid](http://sgdril.eecs.wsu.edu/workshop/dasg) workshop at Washington State University, August 2017.
 * Our paper "When Labels Fall Short: Property Graph Simulation via Blending of Network Structure and Vertex Attributes" accepted in [CIKM 2017](http://cikm2017.org/).
 * StreamWorks presented at [BlackHat 2017](https://www.blackhat.com)! Our presentation is [here](publications/StreamWorks_BlackHat.pdf).
 
