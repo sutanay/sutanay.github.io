@@ -13,7 +13,6 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 * Our paper "[Application Specific Graph Sampling for Frequent Subgraph Mining and Community Detection](publications/2017_GMSampling.pdf)" accepted in [IEEE BigData 2017](http://cci.drexel.edu/bigdata/bigdata2017)
 * Upcoming talk on "Networks and Graphs" at [CoDA 2018](http://cnls.lanl.gov/coda2018) at Los Alamost National Laboratory.
 * Our paper "[When Labels Fall Short](publications/2017_cikm_graphgen.pdf): Property Graph Simulation via Blending of Network Structure and Vertex Attributes" accepted in [CIKM 2017](http://cikm2017.org/).
-* StreamWorks presented at [BlackHat 2017](https://www.blackhat.com)! Our presentation is [here](publications/StreamWorks_BlackHat.pdf).
 
 ## [](#header-2) Knowledge Graphs
 The ability to construct domain specific knowledge graphs is critical to drive needs for question-answering or hypothesis generation. Despite their value, automated construction of knowledge graphs remains an expensive technical challenge that is beyond the reach for most enterprises and academic institutions. We propose an end-to-end framework for developing custom knowledge graph driven analytics for arbitrary application domains. 
