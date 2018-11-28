@@ -42,7 +42,7 @@ In my prior life I had implemented a sensor network protocol named [PakBus](http
 
 ## [](#header-4) Recent Publications
 * Joslyn C.A., M. Robinson, J. Smart, K. Agarwal, D. Bridgeland, A.G. Brown, and S. Choudhury, et al. "HyperThesis: Topological Hypothesis Management in a Hypergraph Knowledgebase." NIST Text Analysis Conference (TAC) 2018, Gaithersburg, Maryland. 
-* Mackey P.S., K. Porterfield, E.B. Fitzhenry, S. Choudhury, and G. Chin. 2018. [A Chronological Edge-Driven Approach to Temporal Subgraph Isomorphism.](publications/2018_bigdata_gta3.pdf) In The 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics. 
+* Mackey P.S., K. Porterfield, E.B. Fitzhenry, S. Choudhury, and G. Chin. 2018. [A Chronological Edge-Driven Approach to Temporal Subgraph Isomorphism.](publications/2018_ieee_bigdata_gta3.pdf) In The 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics. 
 * Deep Learning for Scientific Discovery, C. Corley, N. Hodas, E. Yeung, A. Tartakovsky, T. Hagge, S. Choudhury, K. Agarwal, C. Siegel, J. Daily.  The Next Wave, 2018.
 * Choudhury, S., Purohit, S., Lin, P., Wu, Y., Holder, L., & Agarwal, K. 2018. [Percolator: Scalable Pattern Discovery in Dynamic Graphs](publications/2018_wsdm_percolator.pdf).  11th ACM International Conference on Web Search and Data Mining.
 *  Sathanur, A. V., Choudhury, S., Joslyn, C., & Purohit, S. (2017). [When Labels Fall Short: Property Graph Simulation via Blending of Network Structure and Vertex Attributes](publications/2017_cikm_graphgen.pdf). 26th ACM International Conference on Information and Knowledge Management (CIKM) 
