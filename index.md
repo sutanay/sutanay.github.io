@@ -6,7 +6,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
-* [StreamWorks](publications/2015_streamworks_edbt.pdf) won a [2018 R&D100 award](https://www.pnnl.gov/news/release.aspx?id=4530).
+* [StreamWorks](publications/2015_streamworks_edbt.pdf) wins a [R&D100 award](https://www.pnnl.gov/news/release.aspx?id=4530).
 * Presentation on Streaming Graph Querying for Cyber-security at Microsoft BlueHat conference: [Continuous Pattern Detection on Streaming Data: Present and Future](publications/StreamWorks_BlueHat.pdf).
 * [Arun Sathanur](https://www.linkedin.com/in/arunsathanur) and I are super excited to announce the initial release of a [parallel generator for attributed graph databases](https://github.com/propgraph/pgm).  Please check it out - bug reports are highly appreciated!
 * Our paper "[Scalable Pattern Discovery from Dynamic Graphs](publications/2018_wsdm_percolator.pdf)" accepted in [2018 ACM Intl. Conf. on Web Search and Data Mining (WSDM)](http://www.wsdm-conference.org/2018/)
