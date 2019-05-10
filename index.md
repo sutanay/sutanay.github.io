@@ -6,6 +6,8 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) book chapter in Industrial Control Systems Security and Resiliency, Springer 2019.
+* Our paper on [Temporal Subgraph Isomorphism](publications/2018_ieee_bigdata_gta3.pdf) received best paper award at 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics.
 * [StreamWorks](publications/2015_streamworks_edbt.pdf) wins a [R&D100 award](https://www.pnnl.gov/news/release.aspx?id=4530).
 * Presentation on Streaming Graph Querying for Cyber-security at Microsoft BlueHat conference: [Continuous Pattern Detection on Streaming Data: Present and Future](publications/StreamWorks_BlueHat.pdf).
 * [Arun Sathanur](https://www.linkedin.com/in/arunsathanur) and I are super excited to announce the initial release of a [parallel generator for attributed graph databases](https://github.com/propgraph/pgm).  Please check it out - bug reports are highly appreciated!
