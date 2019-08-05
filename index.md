@@ -6,6 +6,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
 * [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) book chapter in Industrial Control Systems Security and Resiliency, Springer 2019.
 * Our paper on [Temporal Subgraph Isomorphism](publications/2018_ieee_bigdata_gta3.pdf) received best paper award at 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics.
 * [StreamWorks](publications/2015_streamworks_edbt.pdf) wins a [R&D100 award](https://www.pnnl.gov/news/release.aspx?id=4530).
@@ -43,6 +44,7 @@ Resilience is the ability of a system to continue to function, even in a degrade
 In my prior life I had implemented a sensor network protocol named [PakBus](https://s.campbellsci.com/documents/cn/manuals/pakbusnetguide.pdf). Developed by Campbell Scientific, PakBus is universally used by data collection devices. Our open-source version of a C++/Linux version of PakBus is available [here](https://github.com/sutanay/PbCdlComm).
 
 ## [](#header-4) Recent Publications
+* K. Agarwal, T. Eftimov, R. Addanki, S. Choudhury, S. Tamang and R. Rallo. [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
 * Chen P.-Y., S. Choudhury, L. Rodriguez, A.O. Hero and I. Ray, [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) Chapter in Industrial Control Systems Security and Resiliency: Practice and Theory, Eds. C. Rieger, I. Ray, Q. Zhu, M. Haney, Springer 2019.
 * Joslyn C.A., M. Robinson, J. Smart, K. Agarwal, D. Bridgeland, A.G. Brown, and S. Choudhury, et al. "HyperThesis: Topological Hypothesis Management in a Hypergraph Knowledgebase." NIST Text Analysis Conference (TAC) 2018, Gaithersburg, Maryland. 
 * Mackey P.S., K. Porterfield, E.B. Fitzhenry, S. Choudhury, and G. Chin. 2018. [A Chronological Edge-Driven Approach to Temporal Subgraph Isomorphism.](publications/2018_ieee_bigdata_gta3.pdf) In The 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics. 
