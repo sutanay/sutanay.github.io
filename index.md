@@ -7,7 +7,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 
 ## [](#header-2) Latest News
 * [Open-source](https://github.com/pnnl/GridSTAGE) release of [GridSTAGE](publications/Powerdrone_eML_2020Apr_v1.pdf), a multivariate spatio-temporal data generation framework for simulation of adversarial scenarios in cyber-physical systems.
-* [Pre-print](publications/graph-chem-preprint.pdf) of "Interpretation and Evaluation of Continuous-Filter Convolutional Neural Network using Graph-Theoretical Descriptors"
+* [Pre-print](publications/graph-chem-preprint.pdf) of "Interpretation and Evaluation of Continuous-Filter Convolutional Neural Network using Graph-Theoretical Descriptors" (accepted at Journal of Chemical Physics special issue "Machine Learning Meets Chemical Physics")
 * [Tutorial](publications/ECP2020-ExalearnDesign-Tutorial-v3.pdf) at 2020 Exascale Computing Project's Annual Meeting on Molecule Design via Deep Reinforcement Learning.
 * [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
 * [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) book chapter in Industrial Control Systems Security and Resiliency, Springer 2019.
