@@ -6,6 +6,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* [Preprint](publications/2020_gramnet.pdf) "XQA: Relationship Explanation in Knowledge Graphs via Graph-Augmented Neural Networks."
 * [Preprint](publications/2020_arxiv_covid19_generative_models.pdf) "Benchmarking Deep Graph Generative Models for Optimizing New Drug Molecules for COVID-19."
 * [Preprint](publications/2020_arxiv_koopman.pdf) "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
 * New [molecular graph database](https://sites.uw.edu/wdbase) with nearly 5 million structures released.
