@@ -7,9 +7,10 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 
 ## [](#header-2) Latest News
 * [Preprint](publications/2020_arxiv_covid19_generative_models.pdf) "Benchmarking Deep Graph Generative Models for Optimizing New Drug Molecules for COVID-19."
-* [Preprint](publications/2020_arxiv_koopman.pdf) "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes."
+* [Preprint](publications/2020_arxiv_koopman.pdf) "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
+* New [molecular graph database](https://sites.uw.edu/wdbase) with nearly 5 million structures released.
 * [Open-source](https://github.com/pnnl/GridSTAGE) release of [GridSTAGE](publications/Powerdrone_eML_2020Apr_v1.pdf), a multivariate spatio-temporal data generation framework for simulation of adversarial scenarios in cyber-physical systems.
-* [Published](publications/2020_interpretable_molecular_convnets.pdf) "A look inside the black box: Using graph- theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters" (Journal of Chemical Physics special issue "Machine Learning Meets Chemical Physics")
+* Accepted in 2020 Journal of Chemical Physics special issue Machine Learning Meets Chemical Physics: "A look inside the black box: Using graph- theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters". [Paper](publications/2020_interpretable_molecular_convnets.pdf) [Code](https://github.com/exalearn/molecular-graph-descriptors)
 * [Tutorial](publications/ECP2020-ExalearnDesign-Tutorial-v3.pdf) at 2020 Exascale Computing Project's Annual Meeting on Molecule Design via Deep Reinforcement Learning.
 * [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
 * [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) book chapter in Industrial Control Systems Security and Resiliency, Springer 2019.
@@ -49,6 +50,7 @@ Resilience is the ability of a system to continue to function, even in a degrade
 In my prior life I had implemented a sensor network protocol named [PakBus](https://s.campbellsci.com/documents/cn/manuals/pakbusnetguide.pdf). Developed by Campbell Scientific, PakBus is universally used by data collection devices. Our open-source version of a C++/Linux version of PakBus is available [here](https://github.com/sutanay/PbCdlComm).
 
 ## [](#header-4) Recent Publications
+* Jenna A. Bilbrey, Joseph P. Heindel, Malachi Schram, Pradipta Bandyopadhyay, Sotiris S. Xantheas, and Sutanay Choudhury. [A look inside the black box: Using graph-theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters](publications/2020_interpretable_molecular_convnets.pdf) J. Chem. Phys. 153, 024302 (2020).
 * K. Agarwal, T. Eftimov, R. Addanki, S. Choudhury, S. Tamang and R. Rallo. [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
 * Chen P.-Y., S. Choudhury, L. Rodriguez, A.O. Hero and I. Ray, [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) Chapter in Industrial Control Systems Security and Resiliency: Practice and Theory, Eds. C. Rieger, I. Ray, Q. Zhu, M. Haney, Springer 2019.
 * Joslyn C.A., M. Robinson, J. Smart, K. Agarwal, D. Bridgeland, A.G. Brown, and S. Choudhury, et al. "HyperThesis: Topological Hypothesis Management in a Hypergraph Knowledgebase." NIST Text Analysis Conference (TAC) 2018, Gaithersburg, Maryland. 
