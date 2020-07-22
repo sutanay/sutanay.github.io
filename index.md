@@ -6,6 +6,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* [Preprint](publications/2020_arxiv_slice.pdf) "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
 * "A look inside the black box: Using graph- theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters". 2020 Journal of Chemical Physics special issue Machine Learning Meets Chemical Physics. [Paper](publications/2020_interpretable_molecular_convnets.pdf) [Code](https://github.com/exalearn/molecular-graph-descriptors)
 * [Preprint](publications/2020_arxiv_koopman.pdf) "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
 * New [molecular graph database](https://sites.uw.edu/wdbase) with nearly 5 million structures released.
