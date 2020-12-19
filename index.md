@@ -6,13 +6,13 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* ***[Paper](publications/2020-HydroNet-camera-ready.pdf) [Data](https://exalearn.github.io/hydronet)*** We are excited to release HydroNet, a new AI benchmark resource for generative models and chemistry.
 * ***[Preprint](publications/2020_arxiv_slice.pdf)*** "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
 * ***[Preprint](publications/2020_arxiv_koopman.pdf)*** "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
 * ***[Preprint](publications/2020_gramnet.pdf)*** "XQA: Relationship Explanation in Knowledge Graphs via Graph-Augmented Neural Networks."
 * "A look inside the black box: Using graph- theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters". 2020 Journal of Chemical Physics special issue Machine Learning Meets Chemical Physics. [Paper](publications/2020_interpretable_molecular_convnets.pdf) [Code](https://github.com/exalearn/molecular-graph-descriptors)
 * New [molecular graph database](https://sites.uw.edu/wdbase) with nearly 5 million structures released.
 * [Open-source](https://github.com/pnnl/GridSTAGE) release of GridSTAGE, a multivariate spatio-temporal data generation framework for simulation of adversarial scenarios in cyber-physical systems. [Slides](publications/Powerdrone_eML_2020Apr_v1.pdf)
-* [Tutorial](publications/ECP2020-ExalearnDesign-Tutorial-v3.pdf) at 2020 Exascale Computing Project's Annual Meeting on Molecule Design via Deep Reinforcement Learning.
 * [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
 * [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) book chapter in Industrial Control Systems Security and Resiliency, Springer 2019.
 * Our paper on [Temporal Subgraph Isomorphism](publications/2018_ieee_bigdata_gta3.pdf) received best paper award at 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics.
@@ -51,6 +51,8 @@ Resilience is the ability of a system to continue to function, even in a degrade
 In my prior life I had implemented a sensor network protocol named [PakBus](https://s.campbellsci.com/documents/cn/manuals/pakbusnetguide.pdf). Developed by Campbell Scientific, PakBus is universally used by data collection devices. Our open-source version of a C++/Linux version of PakBus is available [here](https://github.com/sutanay/PbCdlComm).
 
 ## [](#header-4) Recent Publications
+* Choudhury S., J.A. Bilbrey, L. Ward, S.S. Xantheas, I. Foster, J. Heindel, and B. Blaiszik, et al. 2020. [HydroNet: Benchmark Tasks for Preserving Long-range Interactions and Structural Motifs in Predictive and Generative Models for Molecular Data.](publications/2020-HydroNet-camera-ready.pdf) In Machine Learning and the Physical Sciences - Workshop at the 34th Conference on Neural Information Processing Systems (NeurIPS).
+* Nandanoori S., S. Kundu, S. Pal, K. Agarwal, and S. Choudhury. 2020. [Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes.](publications/2020_arxiv_koopman.pdf) In IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm2020). 
 * Jenna A. Bilbrey, Joseph P. Heindel, Malachi Schram, Pradipta Bandyopadhyay, Sotiris S. Xantheas, and Sutanay Choudhury. [A look inside the black box: Using graph-theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters](publications/2020_interpretable_molecular_convnets.pdf) J. Chem. Phys. 153, 024302 (2020).
 * K. Agarwal, T. Eftimov, R. Addanki, S. Choudhury, S. Tamang and R. Rallo. [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
 * Chen P.-Y., S. Choudhury, L. Rodriguez, A.O. Hero and I. Ray, [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) Chapter in Industrial Control Systems Security and Resiliency: Practice and Theory, Eds. C. Rieger, I. Ray, Q. Zhu, M. Haney, Springer 2019.
