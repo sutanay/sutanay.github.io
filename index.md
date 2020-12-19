@@ -6,6 +6,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* Two patents approved!  Our patents for automated detection, reasoning and recommendations for resilient cyber systems, and development of a streaming graph analytics system were approved by USPTO.
 * ***[Paper](publications/2020-HydroNet-camera-ready.pdf) [Data](https://exalearn.github.io/hydronet)*** We are excited to release HydroNet, a new AI benchmark resource for generative models and chemistry.
 * ***[Preprint](publications/2020_arxiv_slice.pdf)*** "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
 * ***[Preprint](publications/2020_arxiv_koopman.pdf)*** "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
@@ -51,6 +52,8 @@ Resilience is the ability of a system to continue to function, even in a degrade
 In my prior life I had implemented a sensor network protocol named [PakBus](https://s.campbellsci.com/documents/cn/manuals/pakbusnetguide.pdf). Developed by Campbell Scientific, PakBus is universally used by data collection devices. Our open-source version of a C++/Linux version of PakBus is available [here](https://github.com/sutanay/PbCdlComm).
 
 ## [](#header-4) Recent Publications
+* U.S. Patent No. 10,855,706 - System and methods for automated detection, reasoning and recommendations for resilient cyber systems- Issued 12/01/20. Sutanay Choudhury, Kushbu Agarwal, Pin-Yu Chen, Indrajit Ray. 
+* U.S. Patent No. 10,810,210 - Performance and usability enhancements for continuous subgraph matching queries on graph-structured data - Issued 10/20/2020. Sutanay Choudhury, George Chin, JR., Khushbu Agarwal, Sherman J. Beus
 * Choudhury S., J.A. Bilbrey, L. Ward, S.S. Xantheas, I. Foster, J. Heindel, and B. Blaiszik, et al. 2020. [HydroNet: Benchmark Tasks for Preserving Long-range Interactions and Structural Motifs in Predictive and Generative Models for Molecular Data.](publications/2020-HydroNet-camera-ready.pdf) In Machine Learning and the Physical Sciences - Workshop at the 34th Conference on Neural Information Processing Systems (NeurIPS).
 * Nandanoori S., S. Kundu, S. Pal, K. Agarwal, and S. Choudhury. 2020. [Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes.](publications/2020_arxiv_koopman.pdf) In IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm2020). 
 * Jenna A. Bilbrey, Joseph P. Heindel, Malachi Schram, Pradipta Bandyopadhyay, Sotiris S. Xantheas, and Sutanay Choudhury. [A look inside the black box: Using graph-theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters](publications/2020_interpretable_molecular_convnets.pdf) J. Chem. Phys. 153, 024302 (2020).
