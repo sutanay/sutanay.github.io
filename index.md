@@ -6,10 +6,11 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* Invited talk [Geometric Deep Learning for Molecule Design](GeometricDeepLearning-MoleculeDesign.pdf) at Case Western Reserve University, January 2021.
+* ***[WebConf 2021](publications/2021_webconf.pdf)*** "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
+* ***[IEEE SmartGridComm 2020](publications/2020_arxiv_koopman.pdf)*** "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
 * Two patents approved!  Our patents for automated detection, reasoning and recommendations for resilient cyber systems, and development of a streaming graph analytics system were approved by USPTO.
 * ***[Paper](publications/2020-HydroNet-camera-ready.pdf) [Data](https://exalearn.github.io/hydronet)*** We are excited to release HydroNet, a new AI benchmark resource for generative models and chemistry.
-* ***[Preprint](publications/2020_arxiv_slice.pdf)*** "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
-* ***[Preprint](publications/2020_arxiv_koopman.pdf)*** "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
 * ***[Preprint](publications/2020_gramnet.pdf)*** "XQA: Relationship Explanation in Knowledge Graphs via Graph-Augmented Neural Networks."
 * "A look inside the black box: Using graph- theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters". 2020 Journal of Chemical Physics special issue Machine Learning Meets Chemical Physics. [Paper](publications/2020_interpretable_molecular_convnets.pdf) [Code](https://github.com/exalearn/molecular-graph-descriptors)
 * New [molecular graph database](https://sites.uw.edu/wdbase) with nearly 5 million structures released.
@@ -52,6 +53,7 @@ Resilience is the ability of a system to continue to function, even in a degrade
 In my prior life I had implemented a sensor network protocol named [PakBus](https://s.campbellsci.com/documents/cn/manuals/pakbusnetguide.pdf). Developed by Campbell Scientific, PakBus is universally used by data collection devices. Our open-source version of a C++/Linux version of PakBus is available [here](https://github.com/sutanay/PbCdlComm).
 
 ## [](#header-4) Recent Publications
+* Wang, P., Agarwal, K., Ham, C., Choudhury, S. and Reddy, C.K., 2021. [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks.](publications/2021_webconf.pdf), In Proceedings of The Web Conference 2021.
 * U.S. Patent No. 10,855,706 - System and methods for automated detection, reasoning and recommendations for resilient cyber systems- Issued 12/01/20. Sutanay Choudhury, Kushbu Agarwal, Pin-Yu Chen, Indrajit Ray. 
 * U.S. Patent No. 10,810,210 - Performance and usability enhancements for continuous subgraph matching queries on graph-structured data - Issued 10/20/2020. Sutanay Choudhury, George Chin, JR., Khushbu Agarwal, Sherman J. Beus
 * Choudhury S., J.A. Bilbrey, L. Ward, S.S. Xantheas, I. Foster, J. Heindel, and B. Blaiszik, et al. 2020. [HydroNet: Benchmark Tasks for Preserving Long-range Interactions and Structural Motifs in Predictive and Generative Models for Molecular Data.](publications/2020-HydroNet-camera-ready.pdf) In Machine Learning and the Physical Sciences - Workshop at the 34th Conference on Neural Information Processing Systems (NeurIPS).
