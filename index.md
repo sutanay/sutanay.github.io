@@ -20,10 +20,6 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 * Our paper on [Temporal Subgraph Isomorphism](publications/2018_ieee_bigdata_gta3.pdf) received best paper award at 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics.
 * [StreamWorks](publications/2015_streamworks_edbt.pdf) wins a [R&D100 award](https://www.pnnl.gov/news/release.aspx?id=4530).
 * Presentation on Streaming Graph Querying for Cyber-security at Microsoft BlueHat conference: [Continuous Pattern Detection on Streaming Data: Present and Future](publications/StreamWorks_BlueHat.pdf).
-* [Arun Sathanur](https://www.linkedin.com/in/arunsathanur) and I are super excited to announce the initial release of a [parallel generator for attributed graph databases](https://github.com/propgraph/pgm).  Please check it out - bug reports are highly appreciated!
-* Our paper "[Scalable Pattern Discovery from Dynamic Graphs](publications/2018_wsdm_percolator.pdf)" accepted in [2018 ACM Intl. Conf. on Web Search and Data Mining (WSDM)](http://www.wsdm-conference.org/2018/)
-* Our paper "[Application Specific Graph Sampling for Frequent Subgraph Mining and Community Detection](publications/2017_GMSampling.pdf)" accepted in [IEEE BigData 2017](http://cci.drexel.edu/bigdata/bigdata2017)
-* Upcoming talk on "Networks and Graphs" at [CoDA 2018](http://cnls.lanl.gov/coda2018) at Los Alamost National Laboratory.
 
 ## [](#header-2) Knowledge Graphs
 The ability to construct domain specific knowledge graphs is critical to drive needs for question-answering or hypothesis generation. Despite their value, automated construction of knowledge graphs remains an expensive technical challenge that is beyond the reach for most enterprises and academic institutions. We propose an end-to-end framework for developing custom knowledge graph driven analytics for arbitrary application domains. 
