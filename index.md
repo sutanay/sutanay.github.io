@@ -6,6 +6,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* ***[Preprint](https://arxiv.org/abs/2102.04977)*** "Benchmarking Deep Graph Generative Models for Optimizing New Drug Molecules for COVID-19."
 * Invited talk [Geometric Deep Learning for Molecule Design](publications/GeometricDeepLearning-MoleculeDesign.pdf) at Case Western Reserve University, January 2021.
 * ***[WebConf 2021](publications/2021_webconf.pdf)*** "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
 * ***[IEEE SmartGridComm 2020](publications/2020_arxiv_koopman.pdf)*** "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
