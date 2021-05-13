@@ -6,25 +6,19 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
-* ***[Special issue on Codesign, International Journal of High Performance Computing Applications](publications/2021_Exalearn_IJHPC.pdf)*** "Co-design Center for Exascale Machine Learning Technologies."
-* ***[ICLR Workshop for Machine Learning on Preventing and Combating Pandemics](publications/2021_ICLR_MLCLP.pdf)*** "Evening the Score: Targeting SARS-CoV-2 Protease Inhibition in Graph Generative Models for Therapeutic Candidates."
-* ***[Preprint](publications/2021_amia_covid19.pdf)*** "Tracking the Evolution of COVID-19 via Temporal Comorbidity Analysis from Multi-Modal Data."
+* [Special issue on Codesign, International Journal of High Performance Computing Applications](publications/2021_Exalearn_IJHPC.pdf) "Co-design Center for Exascale Machine Learning Technologies."
+* [ICLR Workshop for Machine Learning on Preventing and Combating Pandemics](publications/2021_ICLR_MLCLP.pdf) "Evening the Score: Targeting SARS-CoV-2 Protease Inhibition in Graph Generative Models for Therapeutic Candidates."
+* [Preprint](publications/2021_amia_covid19.pdf) "Tracking the Evolution of COVID-19 via Temporal Comorbidity Analysis from Multi-Modal Data."
 * Invited talk [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Cyber Networks](publications/2021_NVIDIA_GTC.pdf) at NVIDIA GTC, April 2021.
 * Invited talk [Application of SparkNLP for Development of Multi-Modal Prediction Model from EHR](publications/2021_NLPSummit-v2.pdf) at NLP Healthcare Summit, April 2021.
 * Flash talk [Discovering Higher-Order relationships from Multi- Modal EHR Data](publications/2021_STARR.pdf) at Stanford STARR Informatics Summit, April 2021.
-* ***[WebConf 2021](publications/2021_webconf.pdf)*** "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
-* ***[IEEE SmartGridComm 2020](publications/2020_arxiv_koopman.pdf)*** "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
+* [WebConf 2021](publications/2021_webconf.pdf) "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
+* [IEEE SmartGridComm 2020](publications/2020_arxiv_koopman.pdf) "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
 * Two patents approved!  Our patents for automated detection, reasoning and recommendations for resilient cyber systems, and development of a streaming graph analytics system were approved by USPTO.
-* ***[2021 NeurIPS Workshop on Physical Sciences](publications/2020-HydroNet-camera-ready.pdf) [Data](https://exalearn.github.io/hydronet)*** We are excited to release HydroNet, a new AI benchmark resource for generative models and chemistry.
-* ***[Preprint](publications/2020_gramnet.pdf)*** "XQA: Relationship Explanation in Knowledge Graphs via Graph-Augmented Neural Networks."
+* [2021 NeurIPS Workshop on Physical Sciences](publications/2020-HydroNet-camera-ready.pdf) [Data](https://exalearn.github.io/hydronet) We are excited to release HydroNet, a new AI benchmark resource for generative models and chemistry.
 * "A look inside the black box: Using graph- theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters". 2020 Journal of Chemical Physics special issue Machine Learning Meets Chemical Physics. [Paper](publications/2020_interpretable_molecular_convnets.pdf) [Code](https://github.com/exalearn/molecular-graph-descriptors)
 * New [molecular graph database](https://sites.uw.edu/wdbase) with nearly 5 million structures released.
 * [Open-source](https://github.com/pnnl/GridSTAGE) release of GridSTAGE, a multivariate spatio-temporal data generation framework for simulation of adversarial scenarios in cyber-physical systems. [Slides](publications/Powerdrone_eML_2020Apr_v1.pdf)
-* [Snomed2Vec: Random Walk and Poincaré Embeddings of a Clinical Knowledge Base for Healthcare Analytics](https://arxiv.org/abs/1907.08650) 2019 KDD Workshop on Applied Data Science for Healthcare (DSHealth '19)/KDD Health Day.
-* [Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach,](https://arxiv.org/pdf/1905.01002.pdf) book chapter in Industrial Control Systems Security and Resiliency, Springer 2019.
-* Our paper on [Temporal Subgraph Isomorphism](publications/2018_ieee_bigdata_gta3.pdf) received best paper award at 2nd IEEE BigData Workshop on Graph Techniques for Adversarial Activity Analytics.
-* [StreamWorks](publications/2015_streamworks_edbt.pdf) wins a [R&D100 award](https://www.pnnl.gov/news/release.aspx?id=4530).
-* Presentation on Streaming Graph Querying for Cyber-security at Microsoft BlueHat conference: [Continuous Pattern Detection on Streaming Data: Present and Future](publications/StreamWorks_BlueHat.pdf).
 
 ## [](#header-2) Knowledge Graphs
 The ability to construct domain specific knowledge graphs is critical to drive needs for question-answering or hypothesis generation. Despite their value, automated construction of knowledge graphs remains an expensive technical challenge that is beyond the reach for most enterprises and academic institutions. We propose an end-to-end framework for developing custom knowledge graph driven analytics for arbitrary application domains. 
