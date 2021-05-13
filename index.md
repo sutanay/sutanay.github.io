@@ -6,8 +6,12 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
-* ***[Preprint](https://arxiv.org/abs/2102.04977)*** "Benchmarking Deep Graph Generative Models for Optimizing New Drug Molecules for COVID-19."
-* Invited talk [Geometric Deep Learning for Molecule Design](publications/GeometricDeepLearning-MoleculeDesign.pdf) at Case Western Reserve University, January 2021.
+* ***[Special issue on Codesign, International Journal of High Performance Computing Applications](publications/2021_Exalearn_IJHPC.pdf)*** "Co-design Center for Exascale Machine Learning Technologies."
+* ***[ICLR Workshop for Machine Learning on Preventing and Combating Pandemics](publications/2021_ICLR_MLCLP.pdf)*** "Evening the Score: Targeting SARS-CoV-2 Protease Inhibition in Graph Generative Models for Therapeutic Candidates."
+* ***[Preprint](publications/2021_amia_covid19.pdf)*** "Tracking the Evolution of COVID-19 via Temporal Comorbidity Analysis from Multi-Modal Data."
+* Invited talk [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Cyber Networks](publications/2021_NVIDIA_GTC.pdf) at NVIDIA GTC, April 2021.
+* Invited talk [Application of SparkNLP for Development of Multi-Modal Prediction Model from EHR](publications/2021_NLPSummit-v2.pdf) at NLP Healthcare Summit, April 2021.
+* Flash talk [Discovering Higher-Order relationships from Multi- Modal EHR Data](publications/2021_STARR.pdf) at Stanford STARR Informatics Summit, April 2021.
 * ***[WebConf 2021](publications/2021_webconf.pdf)*** "Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks."
 * ***[IEEE SmartGridComm 2020](publications/2020_arxiv_koopman.pdf)*** "Model-Agnostic Algorithm for Real-Time Attack Identification in Power Grid using Koopman Modes." 
 * Two patents approved!  Our patents for automated detection, reasoning and recommendations for resilient cyber systems, and development of a streaming graph analytics system were approved by USPTO.
@@ -50,6 +54,12 @@ Resilience is the ability of a system to continue to function, even in a degrade
 In my prior life I had implemented a sensor network protocol named [PakBus](https://s.campbellsci.com/documents/cn/manuals/pakbusnetguide.pdf). Developed by Campbell Scientific, PakBus is universally used by data collection devices. Our open-source version of a C++/Linux version of PakBus is available [here](https://github.com/sutanay/PbCdlComm).
 
 ## [](#header-4) Recent Publications
+* Bilbrey J.A., L. Ward, S. Choudhury, N. Kumar, and G. Sivaraman. 2021. [Evening the Score: Targeting SARS-CoV-2 Protease Inhibition in Graph Generative Models for Therapeutic Candidates.](publications/2021_ICLR_MLCLP.pdf) In ICLR 2021 Workshop on Machine Learning for Preventing and Combating Pandemics.
+* Bilbrey J.A., J.M. Brandi, M. Ashby, and S. Choudhury. 07/20/2021. "Geometric learning of molecular conformational dynamics." SIAM Conference on Discrete Mathematics 2021.
+* Bilbrey J.A., M. Ashby, and S. Choudhury. 05/10/2021. "Geometric learning of conformational dynamics using graph neural networks." Presented by J.A. Bilbrey at CNLS Virtual Workshop Machine Learning in Chemical and Materials Sciences.
+* Alexander F.J., J.A. Ang, S. Choudhury, S. Ghosh, Y. Huang, N. Kumar, and J.A. Bilbrey, et al. 2020. [Co-design Center for Exascale Machine Learning Technologies (ExaLearn).](publications/2021_Exalearn_IJHPC.pdf) The International Journal of High Performance Computing Applications.
+* Invited talk [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Cyber Networks](publications/2021_NVIDIA_GTC.pdf) at NVIDIA GTC, April 2021.
+* Invited talk [Application of SparkNLP for Development of Multi-Modal Prediction Model from EHR](publications/2021_NLPSummit-v2.pdf) at NLP Healthcare Summit, April 2021.
 * Wang, P., Agarwal, K., Ham, C., Choudhury, S. and Reddy, C.K., 2021. [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks.](publications/2021_webconf.pdf), In Proceedings of The Web Conference 2021.
 * U.S. Patent No. 10,855,706 - System and methods for automated detection, reasoning and recommendations for resilient cyber systems- Issued 12/01/20. Sutanay Choudhury, Kushbu Agarwal, Pin-Yu Chen, Indrajit Ray. 
 * U.S. Patent No. 10,810,210 - Performance and usability enhancements for continuous subgraph matching queries on graph-structured data - Issued 10/20/2020. Sutanay Choudhury, George Chin, JR., Khushbu Agarwal, Sherman J. Beus
