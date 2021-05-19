@@ -6,6 +6,7 @@ I am a member of PNNL's [computing research division](http://www.pnnl.gov/comput
 <img src="images/spark.jpeg">
 
 ## [](#header-2) Latest News
+* [VLDB 2021](publications/2021_VLDBW_GEDET.pdf) "GEDet: Detecting Erroneous Nodes with A Few Examples. (Demonstration Track)"
 * [Special issue on Codesign, International Journal of High Performance Computing Applications](publications/2021_Exalearn_IJHPC.pdf) "Co-design Center for Exascale Machine Learning Technologies."
 * [ICLR Workshop for Machine Learning on Preventing and Combating Pandemics](publications/2021_ICLR_MLCLP.pdf) "Evening the Score: Targeting SARS-CoV-2 Protease Inhibition in Graph Generative Models for Therapeutic Candidates."
 * [Preprint](publications/2021_amia_covid19.pdf) "Tracking the Evolution of COVID-19 via Temporal Comorbidity Analysis from Multi-Modal Data."
@@ -48,6 +49,7 @@ Resilience is the ability of a system to continue to function, even in a degrade
 In my prior life I had implemented a sensor network protocol named [PakBus](https://s.campbellsci.com/documents/cn/manuals/pakbusnetguide.pdf). Developed by Campbell Scientific, PakBus is universally used by data collection devices. Our open-source version of a C++/Linux version of PakBus is available [here](https://github.com/sutanay/PbCdlComm).
 
 ## [](#header-4) Recent Publications
+* Guan S., H. Ma, S. Choudhury, and Y. Wu. 2021. [GEDet: Detecting Erroneous Nodes with A Few Examples.](publications/2021_VLDBW_GEDET.pdf) In 47th International Conference on Very Large Data Bases (demonstration track). 
 * Bilbrey J.A., L. Ward, S. Choudhury, N. Kumar, and G. Sivaraman. 2021. [Evening the Score: Targeting SARS-CoV-2 Protease Inhibition in Graph Generative Models for Therapeutic Candidates.](publications/2021_ICLR_MLCLP.pdf) In ICLR 2021 Workshop on Machine Learning for Preventing and Combating Pandemics.
 * Bilbrey J.A., J.M. Brandi, M. Ashby, and S. Choudhury. 07/20/2021. "Geometric learning of molecular conformational dynamics." SIAM Conference on Discrete Mathematics 2021.
 * Bilbrey J.A., M. Ashby, and S. Choudhury. 05/10/2021. "Geometric learning of conformational dynamics using graph neural networks." Presented by J.A. Bilbrey at CNLS Virtual Workshop Machine Learning in Chemical and Materials Sciences.
