@@ -17,7 +17,7 @@
 title: Sutanay Choudhury
 email: first-name.last-name @ pnl dot gov
 #description: > # this means to ignore newlines until "baseurl:" 
-description: I am a senior research scientist at Pacific Northwest National Laboratory. Thinking about reverse-engineering how we, the humans perform complex tasks such as reading books or make real-time decisions fascinates me.
+description: I am a Chief Scientist, Data Sciences at Pacific Northwest National Laboratory (PNNL) and Co-Director of PNNL's Computational and Theoretical Chemistry Institute. 
 #I am a senior research scientist at Pacific Northwest National Laboratory. My research interests are in knowledge representation and reasoning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pnl.gov" # the base hostname & protocol for your site, e.g. http://example.com

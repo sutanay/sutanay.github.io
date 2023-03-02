@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-I am a member of PNNL's [computing research division](http://www.pnnl.gov/computing/). Here are some problems keeping us inspired.
-
-<img src="images/spark.jpeg">
-
 ## [](#header-2) Latest News
 * [VLDB 2021](publications/2021_VLDBW_GEDET.pdf) "GEDet: Detecting Erroneous Nodes with A Few Examples. (Demonstration Track)"
 * [Special issue on Codesign, International Journal of High Performance Computing Applications](publications/2021_Exalearn_IJHPC.pdf) "Co-design Center for Exascale Machine Learning Technologies."
